@@ -1,4 +1,4 @@
-.card {
+/* .card {
   border: 1px solid;
   border-raduis: 10px;
   box-shadow: 5px 5px 5px black;
@@ -20,4 +20,12 @@
 .card .card-title{
   font-family: Arial,sans-serif;
   margin: 0;
+} */
+
+
+.student{
+  font-family: ariel,sans-serif;
+  font-size: 2em;
+  padding:10%,
+  
 }
