@@ -29,3 +29,12 @@
   padding:10%,
   
 }
+
+.welcome-message{
+  background-color:green;
+}
+
+
+.login-message{
+  background-color:red;
+}
