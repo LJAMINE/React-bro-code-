@@ -6,6 +6,7 @@ import ProfilePicture from "./ProfilePicture.jsx";
 import MyComponents from "./MyComponent.jsx";
 import Counter from "./Counter.jsx";
 import ColorPicker from "./ColorPicker.jsx";
+import MyComponent1 from "./MyComponent1.jsx";
 
 // conditionnal rendering =  allow to control what gets rendered in your application based on certain condition
 // show , hide change componetn
@@ -24,7 +25,8 @@ function App() {
   <>
     {/* <MyComponents />
     <Counter /> */}
-    <ColorPicker/>
+    {/* <ColorPicker/> */}
+    < MyComponent1 />
     </>
   );
 }
