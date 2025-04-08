@@ -11,7 +11,6 @@ const lowacalorieFruit=fruits.filter((fruit) => {
   return fruit.calories>10;
 }
 )
-
   
   const listItems = lowacalorieFruit.map((fruit) => <li key={fruit.name} > {fruit.name}:&nbsp; <b>{fruit.calories}</b> </li>);
 
