@@ -4,6 +4,6 @@ function ProfilePicture() {
     return (
         <img  src={imageUrl} onClick={handleClick} />
     );
-}
+}  
 
 export default ProfilePicture

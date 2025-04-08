@@ -38,3 +38,18 @@
 .login-message{
   background-color:red;
 }
+
+.counter-container{
+  text-align:center;
+  font-family:Arial;
+}
+
+.count-display{
+  font-size:8em;
+}
+.counter-button{
+  height:50px;
+  width:100px;
+  margin:0px 10px;
+  background-color:aqua
+}
